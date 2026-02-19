@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain==0.3.0
+langchain-google-genai
+python-dotenv
+langchain-community==0.3.0
+google-search-results
+langchain-core==0.3.0
+pydantic
+tavily-python
